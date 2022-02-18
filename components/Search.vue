@@ -1,7 +1,7 @@
 <template>
   <form>
     <div class="d-flex search px-2">
-      <img class="d-block search-icon" src="../assets/icons/search.png">
+      <img class="d-block search-icon" src="../assets/images/search.png">
       <input class="input py-2 h-100" type="text" placeholder="Search" aria-label="Search">
     </div>
   </form>

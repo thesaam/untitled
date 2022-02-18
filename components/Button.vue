@@ -7,7 +7,7 @@
 
 <template>
   <div class="px-3">
-    <button class="btn d-flex"><img src="../assets/icons/Icon.png">Upgrade now</button>
+    <button class="btn d-flex"><img src="../assets/images/Icon.png">Upgrade now</button>
   </div>
 </template>
 

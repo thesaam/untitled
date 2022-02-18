@@ -17,12 +17,12 @@
   <div class="d-flex px-5 navbar navbar-expand-lg bg-light">
     <a class="navbar-brand" href="#">
       <li class="nav-item d-flex logo">
-        <img src="../assets/icons/Logomark.png"/>
+        <img src="../assets/images/Logomark.png"/>
         <a class="nav-link px-0" href="#">Untitled UI</a>
       </li>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../assets/icons/burger.png" />
+      <img src="../assets/images/burger.png" />
     </button>
     <div class="navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto">
@@ -48,11 +48,11 @@
       <ul class="navbar-nav">
         <Button />
         <li class="icon">
-          <a href="#"><img class="px-2" src="../assets/icons/settings-icon.png"/>
+          <a href="#"><img class="px-2" src="../assets/images/settings-icon.png"/>
           </a>
         </li>
         <li class="icon">
-          <a href="#"><img class="px-2" src="../assets/icons/bell.png"/>
+          <a href="#"><img class="px-2" src="../assets/images/bell.png"/>
           </a>
         </li>
         <li>
