@@ -52,7 +52,7 @@
           </a>
         </li>
         <li class="icon">
-          <a href="#"><img class="px-2" src="../assets/images/bell.png"/>
+          <a href="#"><img class="px-2" src="../assets/images/Bell.png"/>
           </a>
         </li>
         <li>
