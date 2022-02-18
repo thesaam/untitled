@@ -38,6 +38,8 @@ export default {
   plugins: [
   ],
 
+  babel: { compact: true },
+
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
