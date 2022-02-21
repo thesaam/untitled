@@ -22,7 +22,6 @@
           <th>Status</th>
           <th>Users</th>
           <th>About</th>
-          <!-- <th>About</th> -->
         </tr>
         <tr>
           <td>
@@ -78,36 +77,36 @@
                 <img src="../assets/images/ticked.png">
               </div>
               <div>
-                <img src="../assets/images/Catalog.png">
+                <img src="../assets/images/circle.png">
               </div>
               <div>
-                <h6 class="m-0">Catalog</h6>
-                <p class="p-0">catalogapp.io</p>
+                <h6 class="m-0">Circooles</h6>
+                <p class="p-0">getcircooles.com</p>
               </div>
             </div>
           </td>
           <td>
             <div class="line-1">
-              <div class="inner-line-1"></div>
+              <div class="inner-line-2"></div>
             </div>
           </td>
           <td>
-            <div class="text-center customer">
-              Customer
+            <div class="text-center churn">
+              Churned
             </div>
           </td>
           <td>
             <div>
-              <img src="../assets/images/Cell1.png">
+              <img src="../assets/images/Cell2.png">
             </div>
           </td>
           <td>
             <div>
               <p class="about-up m-0">
-                Content curating app
+                Design software
               </p>
               <p class="about-down">
-                Brings all your news into one place
+                Super lightweight design app
               </p>
             </div>
           </td>
@@ -125,17 +124,17 @@
                 <img src="../assets/images/ticked.png">
               </div>
               <div>
-                <img src="../assets/images/Catalog.png">
+                <img src="../assets/images/cmd.png">
               </div>
               <div>
-                <h6 class="m-0">Catalog</h6>
-                <p class="p-0">catalogapp.io</p>
+                <h6 class="m-0">Command+R</h6>
+                <p class="p-0">cmdr.ai</p>
               </div>
             </div>
           </td>
           <td>
             <div class="line-1">
-              <div class="inner-line-1"></div>
+              <div class="inner-line-3"></div>
             </div>
           </td>
           <td>
@@ -145,16 +144,110 @@
           </td>
           <td>
             <div>
-              <img src="../assets/images/Cell1.png">
+              <img src="../assets/images/Cell3.png">
             </div>
           </td>
           <td>
             <div>
               <p class="about-up m-0">
-                Content curating app
+                Data prediction
               </p>
               <p class="about-down">
-                Brings all your news into one place
+                AI and machine learning data
+              </p>
+            </div>
+          </td>
+          <td>
+            <div>
+              <img class="icons" src="../assets/images/delete.png">
+              <img class="icons" src="../assets/images/edit.png">
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="d-flex">
+              <div class="pe-1">
+                <img src="../assets/images/plain.png">
+              </div>
+              <div>
+                <img src="../assets/images/hour.png">
+              </div>
+              <div>
+                <h6 class="m-0">Hourglass</h6>
+                <p class="p-0">hourglass.app</p>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div class="line-1">
+              <div class="inner-line-4"></div>
+            </div>
+          </td>
+          <td>
+            <div class="text-center customer">
+              Customer
+            </div>
+          </td>
+          <td>
+            <div>
+              <img src="../assets/images/Cell4.png">
+            </div>
+          </td>
+          <td>
+            <div>
+              <p class="about-up m-0">
+                Productivity app
+              </p>
+              <p class="about-down">
+                Time management and productivity
+              </p>
+            </div>
+          </td>
+          <td>
+            <div>
+              <img class="icons" src="../assets/images/delete.png">
+              <img class="icons" src="../assets/images/edit.png">
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="d-flex">
+              <div class="pe-1">
+                <img src="../assets/images/plain.png">
+              </div>
+              <div>
+                <img src="../assets/images/layers.png">
+              </div>
+              <div>
+                <h6 class="m-0">Layers</h6>
+                <p class="p-0">getlayers.io</p>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div class="line-1">
+              <div class="inner-line-5"></div>
+            </div>
+          </td>
+          <td>
+            <div class="text-center churn">
+              Churned
+            </div>
+          </td>
+          <td>
+            <div>
+              <img src="../assets/images/Cell5.png">
+            </div>
+          </td>
+          <td>
+            <div>
+              <p class="about-up m-0">
+                Web app integrations
+              </p>
+              <p class="about-down">
+                Connect web apps seamlessly
               </p>
             </div>
           </td>
@@ -172,17 +265,17 @@
                 <img src="../assets/images/ticked.png">
               </div>
               <div>
-                <img src="../assets/images/Catalog.png">
+                <img src="../assets/images/quotient.png">
               </div>
               <div>
-                <h6 class="m-0">Catalog</h6>
-                <p class="p-0">catalogapp.io</p>
+                <h6 class="m-0">Quotient</h6>
+                <p class="p-0">quotient.co</p>
               </div>
             </div>
           </td>
           <td>
             <div class="line-1">
-              <div class="inner-line-1"></div>
+              <div class="inner-line-6"></div>
             </div>
           </td>
           <td>
@@ -192,16 +285,16 @@
           </td>
           <td>
             <div>
-              <img src="../assets/images/Cell1.png">
+              <img src="../assets/images/Cell6.png">
             </div>
           </td>
           <td>
             <div>
               <p class="about-up m-0">
-                Content curating app
+                Sales CRM
               </p>
               <p class="about-down">
-                Brings all your news into one place
+                Web-based sales doc management
               </p>
             </div>
           </td>
@@ -219,17 +312,17 @@
                 <img src="../assets/images/ticked.png">
               </div>
               <div>
-                <img src="../assets/images/Catalog.png">
+                <img src="../assets/images/sisy.png">
               </div>
               <div>
-                <h6 class="m-0">Catalog</h6>
-                <p class="p-0">catalogapp.io</p>
+                <h6 class="m-0">Sisyphus</h6>
+                <p class="p-0">sisyphus.com</p>
               </div>
             </div>
           </td>
           <td>
             <div class="line-1">
-              <div class="inner-line-1"></div>
+              <div class="inner-line-7"></div>
             </div>
           </td>
           <td>
@@ -239,16 +332,16 @@
           </td>
           <td>
             <div>
-              <img src="../assets/images/Cell1.png">
+              <img src="../assets/images/Cell7.png">
             </div>
           </td>
           <td>
             <div>
               <p class="about-up m-0">
-                Content curating app
+                Automation and workflow
               </p>
               <p class="about-down">
-                Brings all your news into one place
+                Time tracking, invoicing and expenses
               </p>
             </div>
           </td>
@@ -258,150 +351,17 @@
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
-        </tr>
-        <tr>
-          <td>
-            <div class="d-flex">
-              <div class="pe-1">
-                <img src="../assets/images/ticked.png">
-              </div>
-              <div>
-                <img src="../assets/images/Catalog.png">
-              </div>
-              <div>
-                <h6 class="m-0">Catalog</h6>
-                <p class="p-0">catalogapp.io</p>
-              </div>
-            </div>
-          </td>
-          <td>
-            <div class="line-1">
-              <div class="inner-line-1"></div>
-            </div>
-          </td>
-          <td>
-            <div class="text-center customer">
-              Customer
-            </div>
-          </td>
-          <td>
-            <div>
-              <img src="../assets/images/Cell1.png">
-            </div>
-          </td>
-          <td>
-            <div>
-              <p class="about-up m-0">
-                Content curating app
-              </p>
-              <p class="about-down">
-                Brings all your news into one place
-              </p>
-            </div>
-          </td>
-          <td>
-            <div>
-              <img class="icons" src="../assets/images/delete.png">
-              <img class="icons" src="../assets/images/edit.png">
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <div class="d-flex">
-              <div class="pe-1">
-                <img src="../assets/images/ticked.png">
-              </div>
-              <div>
-                <img src="../assets/images/Catalog.png">
-              </div>
-              <div>
-                <h6 class="m-0">Catalog</h6>
-                <p class="p-0">catalogapp.io</p>
-              </div>
-            </div>
-          </td>
-          <td>
-            <div class="line-1">
-              <div class="inner-line-1"></div>
-            </div>
-          </td>
-          <td>
-            <div class="text-center customer">
-              Customer
-            </div>
-          </td>
-          <td>
-            <div>
-              <img src="../assets/images/Cell1.png">
-            </div>
-          </td>
-          <td>
-            <div>
-              <p class="about-up m-0">
-                Content curating app
-              </p>
-              <p class="about-down">
-                Brings all your news into one place
-              </p>
-            </div>
-          </td>
-          <td>
-            <div>
-              <img class="icons" src="../assets/images/delete.png">
-              <img class="icons" src="../assets/images/edit.png">
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <div class="d-flex">
-              <div class="pe-1">
-                <img src="../assets/images/ticked.png">
-              </div>
-              <div>
-                <img src="../assets/images/Catalog.png">
-              </div>
-              <div>
-                <h6 class="m-0">Catalog</h6>
-                <p class="p-0">catalogapp.io</p>
-              </div>
-            </div>
-          </td>
-          <td>
-            <div class="line-1">
-              <div class="inner-line-1"></div>
-            </div>
-          </td>
-          <td>
-            <div class="text-center customer">
-              Customer
-            </div>
-          </td>
-          <td>
-            <div>
-              <img src="../assets/images/Cell1.png">
-            </div>
-          </td>
-          <td>
-            <div>
-              <p class="about-up m-0">
-                Content curating app
-              </p>
-              <p class="about-down">
-                Brings all your news into one place
-              </p>
-            </div>
-          </td>
-          <td>
-            <div>
-              <img class="icons" src="../assets/images/delete.png">
-              <img class="icons" src="../assets/images/edit.png">
-            </div>
-          </td>
-        </tr>
-        
+        </tr>    
       </table>
+      <div class="d-flex px-2 py-2 justify-content-between">
+        <div class="left">
+          <button class="btn mx-1 px-3">Previous</button>
+          <button class="btn mx-1 px-3">Next</button>
+        </div>
+        <div class="right px-1">
+          <p>Page 1 of 10</p>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -413,7 +373,8 @@
     border: 2px solid #EAECF0;
     border-radius: 8px;
     color: #667085;
-    /* padding: 10px; */
+    box-shadow: 0px 4px 8px -2px rgba(16, 24, 40, 0.1), 0px 2px 4px -2px rgba(16, 24, 40, 0.06);
+    margin-bottom: 20px;
   }
 
   table {
@@ -450,11 +411,61 @@
     border-radius: 4px;
   }
 
+  .inner-line-2 {
+    width: 60%;
+    height: 100%;
+    background: #7F56D9;
+    border-radius: 4px;
+  }
+
+  .inner-line-3 {
+    width: 30%;
+    height: 100%;
+    background: #7F56D9;
+    border-radius: 4px;
+  }
+
+  .inner-line-4 {
+    width: 80%;
+    height: 100%;
+    background: #7F56D9;
+    border-radius: 4px;
+  }
+
+  .inner-line-5 {
+    width: 25%;
+    height: 100%;
+    background: #7F56D9;
+    border-radius: 4px;
+  }
+
+  .inner-line-6 {
+    width: 15%;
+    height: 100%;
+    background: #7F56D9;
+    border-radius: 4px;
+  }
+
+  .inner-line-7 {
+    width: 40%;
+    height: 100%;
+    background: #7F56D9;
+    border-radius: 4px;
+  }
+
   .customer {
     background: #ECFDF3;
     border-radius: 16px;
     width: 100px;
     color: #027A48;
+    font-weight: 600;
+  }
+
+  .churn {
+    background: #F2F4F7;
+    border-radius: 16px;
+    width: 100px;
+    color: #344054;
     font-weight: 600;
   }
 
