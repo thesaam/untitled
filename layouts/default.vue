@@ -4,6 +4,8 @@
     <pageHeader />
     <Overview />
     <nuxt/>
+    <tableFilter />
+    <Table />
   </div>
 </template>
 
@@ -11,13 +13,17 @@
 import pageHeader from '../components/pageHeader.vue'
 import Navbar from '../components/Navbar.vue'
 import Overview from '../components/Overview.vue'
+import tableFilter from '../components/tableFilter.vue'
+import Table from '../components/Table.vue'
 
 
 export default {
   components: {
     pageHeader,
     Navbar,
-    Overview
+    Overview,
+    tableFilter,
+    Table
 }
 }
 </script>
