@@ -12,7 +12,7 @@
       <table class="">
         <tr>
           <div class="p-sm-2 p-lg-0">
-            <th>
+            <th class="px-4 py-3 px-lg-o py-lg-0">
               <img class="pe-1" src="../assets/images/checkbox.png">
               Company
               <i class="fa-solid fa-arrow-down"></i>
@@ -40,7 +40,7 @@
           </th>
         </tr>
         <tr>
-          <td>
+          <td class="px-4 py-3 px-lg-o py-lg-0">
             <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
@@ -87,7 +87,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="px-4 py-3 px-lg-o py-lg-0">
             <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
@@ -127,14 +127,14 @@
             </div>
           </td>
           <td>
-            <div class="d-none d-lg-block">
+            <div class="d-none d-lg-block pe-0">
               <img class="icons" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="px-4 py-3 px-lg-o py-lg-0">
             <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
@@ -181,7 +181,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="px-4 py-3 px-lg-o py-lg-0">
             <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/plain.png">
@@ -228,7 +228,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="px-4 py-3 px-lg-o py-lg-0">
             <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/plain.png">
@@ -275,7 +275,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="px-4 py-3 px-lg-o py-lg-0">
             <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
@@ -322,7 +322,7 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class="px-4 py-3 px-lg-o py-lg-0">
             <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
@@ -406,13 +406,13 @@
     border-bottom: 2px solid #EAECF0;
   }
 
-  th {
+  /* th {
     padding: 10px;
-  }
+  } */
 
-  td {
+  /* td {
     padding: 10px;
-  }
+  } */
 
   tr:nth-child(even) {
     background: #F9FAFB;;

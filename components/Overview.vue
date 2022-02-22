@@ -5,28 +5,28 @@
 
 <template>
   <main>
-    <div class="d-lg-flex mx-5 d-block">
-      <div class="box w-100 mb-5 me-lg-3 mb-lg-0">
+    <div class="d-lg-flex mx-3 mx-lg-5 d-block">
+      <div class="box w-100 mb-3 me-lg-4 mb-lg-0">
         <div class="box-top pb-2 d-flex justify-content-between">
           <h5>Total Customers</h5>
           <i class="grey fa-solid fa-ellipsis-vertical"></i>
         </div>
-        <div class="box-btm d-flex justify-content-between">
+        <div class="d-flex justify-content-between">
           <div class="left">
             <h1 class="pb-2">2,420</h1>
             <p class="grey pt-3"><span class="green px-1"><i class="fa-solid fa-arrow-up pe-1"></i>40%</span>vs last month</p>
           </div>
           <div>
-            <img src="../assets/images/Green.png" alt="error" class="chart">
+            <img src="../assets/images/Green.png" alt="error" class="chart w-100">
           </div>
         </div>
       </div>
-      <div class="box w-100 mb-5 me-lg-3 mb-lg-0">
+      <div class="box w-100 mb-3 mb-lg-0 me-lg-4">
         <div class="box-top pb-2 d-flex justify-content-between">
           <h5>Members</h5>
           <i class="grey fa-solid fa-ellipsis-vertical"></i>
         </div>
-        <div class="box-btm d-flex justify-content-between">
+        <div class="d-flex justify-content-between">
           <div class="left">
             <h1 class="pb-2">1,210</h1>
             <p class="grey pt-3"><span class="red px-1"><i class="fa-solid fa-arrow-down pe-1 arrow-down"></i>10%</span>vs last month</p>
@@ -36,12 +36,12 @@
           </div>
         </div>
       </div>
-      <div class="box w-100 mb-5 mb-lg-0">
+      <div class="box w-100 mb-3 mb-lg-0">
         <div class="box-top pb-2 d-flex justify-content-between">
           <h5>Active now</h5>
           <i class="grey fa-solid fa-ellipsis-vertical"></i>
         </div>
-        <div class="box-btm d-flex justify-content-between">
+        <div class="d-flex justify-content-between">
           <div class="left">
             <h1 class="pb-2">316</h1>
             <p class="pt-3"><span class="green px-1"><i class="fa-solid fa-arrow-up pe-1"></i>20%</span>vs last month</p>
@@ -67,6 +67,7 @@
 
   .grey {
     color: #98A2B3;
+    cursor: pointer;
   }
 
   .green {

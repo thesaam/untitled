@@ -11,7 +11,7 @@ export default {
 </script>
 
 <template>
-  <div class="d-flex flex-column-reverse flex-lg-row px-5 mt-3 my-5 justify-content-between">
+  <div class="d-flex flex-column-reverse flex-lg-row px-3 px-lg-5 mt-3 my-5 justify-content-between">
     <div class="filter d-flex flex-column-reverse flex-lg-row mt-2 text-center">
       <div class="d-flex mt-2 mt-lg-0">
         <div class="colored fw-bold mx-2 p-2">
