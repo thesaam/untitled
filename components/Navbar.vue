@@ -63,7 +63,7 @@
     </div>
   </div>
   <div class="divider"></div>
-  <div class="container-fluid px-5 py-2 navbar-collapse" id="navbarSupportedContent">
+  <div class="container-fluid px-5 py-2 navbar-collapse d-none d-lg-block" id="navbarSupportedContent">
       <div class="nav-two d-flex justify-content-between">
         <ul class="nav me-auto">
           <li class="nav-item">
