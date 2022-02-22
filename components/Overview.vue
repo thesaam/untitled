@@ -5,8 +5,8 @@
 
 <template>
   <main>
-    <div class="d-lg-flex px-4 d-sm-block">
-      <div class="box w-75 mb-sm-5 mb-lg-0">
+    <div class="d-lg-flex mx-5 d-block">
+      <div class="box w-100 mb-5 me-lg-3 mb-lg-0">
         <div class="box-top pb-2 d-flex justify-content-between">
           <h5>Total Customers</h5>
           <i class="grey fa-solid fa-ellipsis-vertical"></i>
@@ -21,7 +21,7 @@
           </div>
         </div>
       </div>
-      <div class="box w-75 mb-sm-5 mb-lg-0">
+      <div class="box w-100 mb-5 me-lg-3 mb-lg-0">
         <div class="box-top pb-2 d-flex justify-content-between">
           <h5>Members</h5>
           <i class="grey fa-solid fa-ellipsis-vertical"></i>
@@ -36,7 +36,7 @@
           </div>
         </div>
       </div>
-      <div class="box w-75 mb-sm-5 mb-lg-0">
+      <div class="box w-100 mb-5 mb-lg-0">
         <div class="box-top pb-2 d-flex justify-content-between">
           <h5>Active now</h5>
           <i class="grey fa-solid fa-ellipsis-vertical"></i>
@@ -59,7 +59,6 @@
   .box {
     width: 32%;
     padding: 30px 20px;
-    margin: 0px 20px;
     border: 2px solid #EAECF0;
     border-radius: 8px;
     color: #101828;

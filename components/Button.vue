@@ -6,7 +6,7 @@
 </script>
 
 <template>
-  <div class="px-3">
+  <div class="px-3 mx-auto">
     <button class="btn d-flex"><img src="../assets/images/Icon.png">Upgrade now</button>
   </div>
 </template>

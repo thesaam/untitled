@@ -14,7 +14,7 @@
 
 <template>
 <div>
-  <div class="d-flex px-5 navbar navbar-expand-lg bg-light">
+  <div class="d-flex px-5 navbar navbar-expand-lg bg-light text-center">
     <a class="navbar-brand" href="#">
       <li class="nav-item d-flex logo">
         <img src="../assets/images/Logomark.png"/>

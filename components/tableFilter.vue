@@ -11,9 +11,9 @@ export default {
 </script>
 
 <template>
-  <div class="d-flex flex-sm-column-reverse flex-lg-row px-5 mt-3 my-5 justify-content-between">
-    <div class="filter d-flex flex-sm-column-reverse flex-lg-row mt-2 text-center">
-      <div class="d-flex">
+  <div class="d-flex flex-column-reverse flex-lg-row px-5 mt-3 my-5 justify-content-between">
+    <div class="filter d-flex flex-column-reverse flex-lg-row mt-2 text-center">
+      <div class="d-flex mt-2 mt-lg-0">
         <div class="colored fw-bold mx-2 p-2">
           All time
           <i class="fa-solid fa-xmark"></i>
@@ -23,7 +23,7 @@ export default {
           <i class="fa-solid fa-xmark"></i>
         </div>
       </div>
-      <div class="plain btn fw-bold mx-2 p-2">
+      <div class="plain btn fw-bold mx-lg-2 p-2">
         <img src="../assets/images/filter.png" alt="filter">
         More filters
       </div>

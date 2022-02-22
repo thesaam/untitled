@@ -20,7 +20,6 @@ export default {
   border: 1px solid #D0D5DD;
   box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
   border-radius: 8px;
-  width: 350px;
   padding-left: 10px;
   }
 
