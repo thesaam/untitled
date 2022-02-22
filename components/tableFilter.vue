@@ -18,7 +18,7 @@ export default {
         <i class="fa-solid fa-xmark"></i>
       </div>
       <div class="colored fw-bold mx-2 p-2">
-        All time
+        US,AU,+4
         <i class="fa-solid fa-xmark"></i>
       </div>
       <div class="plain btn fw-bold mx-2 p-2">

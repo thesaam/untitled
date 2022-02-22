@@ -13,11 +13,12 @@
 
 <style>
   .btn {
-    border: 2px solid #D0D5DD;
+    border: 1px solid #D0D5DD;
     border-radius: 8px;
     color: #344054;
     font-weight: 500;
     line-height: 24px;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
   }
 </style>
 

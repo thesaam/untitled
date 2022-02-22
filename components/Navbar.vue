@@ -63,28 +63,30 @@
     </div>
   </div>
   <div class="divider"></div>
-  <div class="container-fluid px-5 py-2 d-flex navbar-collapse" id="navbarSupportedContent">
-      <ul class="nav me-auto">
-        <li class="nav-item">
-          <a class="nav-link active" href="#">Overview</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Notification</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Analytics</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Saved reports</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Trade History</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">User reports</a>
-        </li>
-      </ul>
+  <div class="container-fluid px-5 py-2 navbar-collapse" id="navbarSupportedContent">
+      <div class="nav-two d-flex justify-content-between">
+        <ul class="nav me-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Overview</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Notification</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Analytics</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Saved reports</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Trade History</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">User reports</a>
+          </li>
+        </ul>
       <Search />
+      </div>
     </div>
 </div>  
 
@@ -118,4 +120,5 @@ nav {
   background: #F9FAFB;
   border-radius: 6px;
 }
+
 </style>

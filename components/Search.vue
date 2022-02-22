@@ -17,7 +17,7 @@ export default {
 <style>
   .search {
   background: #FFFFFF;
-  border: 2px solid #D0D5DD;
+  border: 1px solid #D0D5DD;
   box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
   border-radius: 8px;
   width: 350px;
