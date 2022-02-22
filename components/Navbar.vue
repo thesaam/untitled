@@ -24,7 +24,7 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <img src="../assets/images/burger.png" />
     </button>
-    <div class="navbar-collapse" id="navbarSupportedContent">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" role="navigation">
       <ul class="navbar-nav me-auto">
         <li class="nav-item px-2">
           <a class="nav-link" href="#">Home</a> 

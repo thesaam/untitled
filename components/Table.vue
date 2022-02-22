@@ -80,8 +80,8 @@
             </div>
           </td>
           <td>
-            <div class="d-none d-lg-block">
-              <img class="icons" src="../assets/images/delete.png">
+            <div class="d-none d-lg-block pe-lg-1">
+              <img class="icons me-lg-1" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
@@ -128,7 +128,7 @@
           </td>
           <td>
             <div class="d-none d-lg-block pe-0">
-              <img class="icons" src="../assets/images/delete.png">
+              <img class="icons me-lg-1" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
@@ -175,7 +175,7 @@
           </td>
           <td>
             <div class="d-none d-lg-block">
-              <img class="icons" src="../assets/images/delete.png">
+              <img class="icons me-lg-1" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
@@ -222,7 +222,7 @@
           </td>
           <td>
             <div class="d-none d-lg-block">
-              <img class="icons" src="../assets/images/delete.png">
+              <img class="icons me-lg-1" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
@@ -269,7 +269,7 @@
           </td>
           <td>
             <div class="d-none d-lg-block">
-              <img class="icons" src="../assets/images/delete.png">
+              <img class="icons me-lg-1" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
@@ -316,7 +316,7 @@
           </td>
           <td>
             <div class="d-none d-lg-block"> 
-              <img class="icons" src="../assets/images/delete.png">
+              <img class="icons me-lg-1" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
@@ -363,7 +363,7 @@
           </td>
           <td>
             <div class="d-none d-lg-block">
-              <img class="icons" src="../assets/images/delete.png">
+              <img class="icons me-lg-1" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
           </td>
@@ -405,14 +405,6 @@
   tr:first-child {
     border-bottom: 2px solid #EAECF0;
   }
-
-  /* th {
-    padding: 10px;
-  } */
-
-  /* td {
-    padding: 10px;
-  } */
 
   tr:nth-child(even) {
     background: #F9FAFB;;

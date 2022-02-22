@@ -4,7 +4,6 @@
   padding: 0;
   position: relative;
   font-weight: normal;
-  /* overflow: none; */
 }
 
 body {
@@ -20,4 +19,10 @@ body {
   height: 2px;
   width: 100%;
   background: rgba(234, 236, 240, 1);
+}
+
+@media (min-width: 300px) and (max-width: 500px) {
+  .whole {
+    border-radius: 0px !important;
+  }
 }
