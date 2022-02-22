@@ -11,8 +11,8 @@
     <div class="whole">
       <table class="">
         <tr>
-          <div class="p-sm-2 p-lg-0">
-            <th class="px-4 py-3 px-lg-o py-lg-0">
+          <div class="p-sm-2 p-lg-0 px-4 py-4">
+            <th>
               <img class="pe-1" src="../assets/images/checkbox.png">
               Company
               <i class="fa-solid fa-arrow-down"></i>
