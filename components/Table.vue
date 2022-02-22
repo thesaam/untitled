@@ -7,25 +7,41 @@
 </script>
 
 <template>
-  <div class="container-fluid px-5">
+  <div class="container-fluid px-lg-5 px-sm-0">
     <div class="whole">
       <table>
         <tr>
-          <div class="table-head">
+          <div class="table-head p-sm-2 p-lg-0">
             <th>
               <img class="pe-1" src="../assets/images/checkbox.png">
               Company
               <i class="fa-solid fa-arrow-down"></i>
             </th>
           </div>
-          <th>Licence</th>
-          <th>Status</th>
-          <th>Users</th>
-          <th>About</th>
+          <th>
+            <div class="d-sm-none d-lg-block">
+              License
+            </div>
+          </th>
+          <th>
+            <div class="d-sm-none d-lg-block">
+              Status
+            </div>
+          </th>
+          <th>
+            <div class="d-sm-none d-lg-block">
+             Users
+            </div>
+          </th>
+          <th>
+            <div class="d-sm-none d-lg-block">
+             About
+            </div>
+          </th>
         </tr>
         <tr>
           <td>
-            <div class="d-flex">
+            <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
               </div>
@@ -44,17 +60,17 @@
             </div>
           </td>
           <td>
-            <div class="text-center customer">
+            <div class="text-center d-sm-none d-lg-block customer">
               Customer
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img src="../assets/images/Cell1.png">
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <p class="about-up m-0">
                 Content curating app
               </p>
@@ -64,7 +80,7 @@
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img class="icons" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
@@ -72,7 +88,7 @@
         </tr>
         <tr>
           <td>
-            <div class="d-flex">
+            <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
               </div>
@@ -91,17 +107,17 @@
             </div>
           </td>
           <td>
-            <div class="text-center churn">
+            <div class="text-center churn d-sm-none d-lg-block">
               Churned
             </div>
           </td>
           <td>
-            <div>
+            <div  class="d-sm-none d-lg-block">
               <img src="../assets/images/Cell2.png">
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <p class="about-up m-0">
                 Design software
               </p>
@@ -110,7 +126,7 @@
               </p>
             </div>
           </td>
-          <td>
+          <td class="d-sm-none d-lg-block">
             <div>
               <img class="icons" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
@@ -119,7 +135,7 @@
         </tr>
         <tr>
           <td>
-            <div class="d-flex">
+            <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
               </div>
@@ -138,17 +154,17 @@
             </div>
           </td>
           <td>
-            <div class="text-center customer">
+            <div class="text-center customer d-sm-none d-lg-block">
               Customer
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img src="../assets/images/Cell3.png">
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <p class="about-up m-0">
                 Data prediction
               </p>
@@ -158,7 +174,7 @@
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img class="icons" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
@@ -166,7 +182,7 @@
         </tr>
         <tr>
           <td>
-            <div class="d-flex">
+            <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/plain.png">
               </div>
@@ -185,17 +201,17 @@
             </div>
           </td>
           <td>
-            <div class="text-center customer">
+            <div class="text-center customer d-sm-none d-lg-block">
               Customer
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img src="../assets/images/Cell4.png">
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <p class="about-up m-0">
                 Productivity app
               </p>
@@ -204,7 +220,7 @@
               </p>
             </div>
           </td>
-          <td>
+          <td class="d-sm-none d-lg-block">
             <div>
               <img class="icons" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
@@ -213,7 +229,7 @@
         </tr>
         <tr>
           <td>
-            <div class="d-flex">
+            <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/plain.png">
               </div>
@@ -232,17 +248,17 @@
             </div>
           </td>
           <td>
-            <div class="text-center churn">
+            <div class="text-center churn d-sm-none d-lg-block">
               Churned
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img src="../assets/images/Cell5.png">
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <p class="about-up m-0">
                 Web app integrations
               </p>
@@ -252,7 +268,7 @@
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img class="icons" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
@@ -260,7 +276,7 @@
         </tr>
         <tr>
           <td>
-            <div class="d-flex">
+            <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
               </div>
@@ -279,17 +295,17 @@
             </div>
           </td>
           <td>
-            <div class="text-center customer">
+            <div class="text-center customer d-sm-none d-lg-block">
               Customer
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img src="../assets/images/Cell6.png">
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <p class="about-up m-0">
                 Sales CRM
               </p>
@@ -299,7 +315,7 @@
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block"> 
               <img class="icons" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
@@ -307,7 +323,7 @@
         </tr>
         <tr>
           <td>
-            <div class="d-flex">
+            <div class="d-flex p-sm-2 p-lg-0">
               <div class="pe-1">
                 <img src="../assets/images/ticked.png">
               </div>
@@ -326,17 +342,17 @@
             </div>
           </td>
           <td>
-            <div class="text-center customer">
+            <div class="text-center customer d-sm-none d-lg-block">
               Customer
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img src="../assets/images/Cell7.png">
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <p class="about-up m-0">
                 Automation and workflow
               </p>
@@ -346,7 +362,7 @@
             </div>
           </td>
           <td>
-            <div>
+            <div class="d-sm-none d-lg-block">
               <img class="icons" src="../assets/images/delete.png">
               <img class="icons" src="../assets/images/edit.png">
             </div>
@@ -354,11 +370,11 @@
         </tr>    
       </table>
       <div class="d-flex px-2 py-2 justify-content-between">
-        <div class="left">
+        <div>
           <button class="btn mx-1 px-3">Previous</button>
           <button class="btn mx-1 px-3">Next</button>
         </div>
-        <div class="right px-1">
+        <div class="px-1">
           <p>Page 1 of 10</p>
         </div>
       </div>
